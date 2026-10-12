@@ -1,5 +1,5 @@
 # kodasistanim
-Proje Yazarı: [Buraya Kendi Adınızı ve Soyadınızı Yazınız]
+Proje Yazarı: Hayrettin ÇELİK
 
 # Projenin Adı: Kod-Asistan v0.1
 
